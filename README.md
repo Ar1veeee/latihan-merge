@@ -1,3 +1,2 @@
-
 # LATIHAN MERGE CONFLICT
-branch
+Belajar branch
