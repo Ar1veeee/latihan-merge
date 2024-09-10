@@ -1,3 +1,2 @@
-# latihan-merge
-#LATIHAN BRANCH
 
+# LATIHAN MERGE CONFLICT
